@@ -32,6 +32,16 @@ const redtheme = extendTheme({
       800: "#B02E0C", // bright red (red 5)
       900: "#230C06" // essentially black w/ red
     },
+    beige: {
+      50: "#E9E1D8", // lightest
+      100: "#DACEBE", // bone
+      150: "#D2C2B1", // light khaki
+      200: "#C7B1A0", // khaki
+      300: "#B09582", // beige
+      400: "#765E56", // light brown
+      500: "#382D2A", // dark brown
+      600: "#231C1A" // black brown
+    }
   },
   fonts: {
     body: `'Open Sans', sans-serif`,
