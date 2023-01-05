@@ -13,12 +13,14 @@ Version 0.1 includes a customizable media kit generator for influencers on a res
 * Audience Metrics
 * Contact Information
 
+For the most up-to-date code, please refer to the `gh-pages` branch.
+
 ## Authors
 
 Contributors names and contact info
 
-* [@ziyuez](https://github.com/ziyuez))
-* [@yuekelele](https://github.com/yuekelele))
+* [@ziyuez](https://github.com/ziyuez)
+* [@yuekelele](https://github.com/yuekelele)
 
 ## Version History
 
