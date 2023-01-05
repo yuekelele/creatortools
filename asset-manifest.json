@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/creatortools/static/css/main.e0fb4c9f.css",
-    "main.js": "/creatortools/static/js/main.77c2a778.js",
+    "main.css": "/creatortools/static/css/main.e8275fb4.css",
+    "main.js": "/creatortools/static/js/main.6ead1222.js",
     "static/js/787.28cb0dcd.chunk.js": "/creatortools/static/js/787.28cb0dcd.chunk.js",
     "static/media/worldmap.png": "/creatortools/static/media/worldmap.8337827bf72c9fa046ac.png",
     "static/media/source-sans-pro-all-600-normal.woff": "/creatortools/static/media/source-sans-pro-all-600-normal.dc404c2900bb751a6d7c.woff",
@@ -32,15 +32,13 @@
     "static/media/source-sans-pro-vietnamese-600-normal.woff2": "/creatortools/static/media/source-sans-pro-vietnamese-600-normal.2a10e8084d8796e01039.woff2",
     "static/media/playfair-display-vietnamese-400-normal.woff2": "/creatortools/static/media/playfair-display-vietnamese-400-normal.e62870cc6e58a439e70a.woff2",
     "static/media/open-sans-greek-ext-400-normal.woff2": "/creatortools/static/media/open-sans-greek-ext-400-normal.1ed998a42083750e175e.woff2",
-    "static/media/UploadIcon.svg": "/creatortools/static/media/UploadIcon.469126df4127e870c21611e576b85d00.svg",
-    "static/media/logo.svg": "/creatortools/static/media/logo.034ef726eb08f413c8e9ff1b0abe7414.svg",
     "index.html": "/creatortools/index.html",
-    "main.e0fb4c9f.css.map": "/creatortools/static/css/main.e0fb4c9f.css.map",
-    "main.77c2a778.js.map": "/creatortools/static/js/main.77c2a778.js.map",
+    "main.e8275fb4.css.map": "/creatortools/static/css/main.e8275fb4.css.map",
+    "main.6ead1222.js.map": "/creatortools/static/js/main.6ead1222.js.map",
     "787.28cb0dcd.chunk.js.map": "/creatortools/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0fb4c9f.css",
-    "static/js/main.77c2a778.js"
+    "static/css/main.e8275fb4.css",
+    "static/js/main.6ead1222.js"
   ]
 }
